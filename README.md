@@ -3,7 +3,7 @@ Serbest, basınçsız akımlar için dairesel kesitlerin hidrolik özelliklerini
 
 Uygulama özellikleri:
 
-- Üniform ve kritik akım hidrolik özelliklerinin hesaplanması
+- Üniform ve kritik akım hidrolik özelliklerinin belirli su yüksekliği ya da debi için hesabı
 - Boyutsuz hidrolik özellik eğrilerinin çizimi
 - Dairesel kesit kapasite eğrisi çizimi
 
