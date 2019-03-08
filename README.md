@@ -10,5 +10,5 @@ Uygulama özellikleri:
 Uygulamanın kurulum dosyasını ise [Release](https://github.com/eykaraduman/CircularSectionHydraulics/releases) bölümünden indirebilirsiniz.
 
 <p align="center">
-<img src="https://eykaraduman.github.io/assets/images/CirSectHydApp.png" width="300" />
+<img src="https://eykaraduman.github.io/assets/images/CirSectHydApp.png" width="600" />
 </p>
